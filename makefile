@@ -1,4 +1,4 @@
-TARGET=degrees
+TARGET=unit_conversion
 
 # compiler
 CC=gcc
