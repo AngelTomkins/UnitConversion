@@ -1,7 +1,7 @@
 # UnitConversion
 A simple GTK GUI application written in C to permit simple and easy conversion of units.
 
-Currently the only units supported are °C, °F, and K
+Currently the supported are °C, °F, and K
 
 # Installation
 Ensure you have gtk-3.0 installed on your system first.
